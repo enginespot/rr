@@ -1,0 +1,11 @@
+[package]
+name = "rr"
+version = "0.0.1"
+authors = ["Hongde Liu <enginespot@gmail.com>"]
+edition = "2018"
+license = "MIT"
+readme = "README.md"
+keywords = ["io", "reactive"]
+description = "Reactive Extensions for Rust"
+repository = "https://github.com/enginespot/rr"
+[dependencies]
