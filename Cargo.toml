@@ -9,3 +9,20 @@ keywords = ["io", "reactive"]
 description = "Reactive Extensions for Rust"
 repository = "https://github.com/enginespot/rr"
 [dependencies]
+crossbeam-channel = "0.4.0"
+crossbeam-utils = "0.7.0"
+failure = "0.1.6"
+failure_derive = "0.1.6"
+num-traits = "0.2.9"
+[dev-dependencies]
+mockers = "0.21.0"
+mockers_derive = "0.21.0"
+#
+#[workspace]
+#members = [
+#    "examples"
+#]
+
+
+
+

@@ -1,0 +1,12 @@
+match_block_trailing_comma = true
+binop_separator = "Back"
+reorder_imports = true
+#imports_layout = "Vertical"
+merge_imports = true
+force_multiline_blocks = true
+remove_nested_parens = true
+reorder_impl_items = true
+
+spaces_around_ranges = true
+match_arm_blocks = false
+normalize_doc_attributes = true
